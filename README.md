@@ -1,6 +1,6 @@
 🚴‍♂️ Bike Sales Analysis Dashboard (Excel)
 
-
+![](Excel_Dashboard.png)
 
 
 ## 📊 Project Overview
